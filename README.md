@@ -5,11 +5,11 @@ OPERATING ENVIRONMENT:
 FRONT END: HTML, CSS, JINJA, Python(flask).
 BACK END: Python.
 DATABASE: Firebase, SQL.
-Other API'S: TensorFlow Lite, Google Cloud Vision API\
-Applicatio Type:Client Server Application
-Operating System: Windows & or Heigher/MAC OS/LINUX
-Browser: Google Chrome, Microsoft Edge
-Devices: Smart Phones/Desktop
+Other API'S: TensorFlow Lite, Google Cloud Vision API.
+Applicatio Type:Client Server Application.
+Operating System: Windows & or Heigher/MAC OS/LINUX.
+Browser: Google Chrome, Microsoft Edge.
+Devices: Smart Phones/Desktop.
 
 
 Automatic number plate detection (ANPD), also known as Automatic Vehicle
